@@ -1,2 +1,3 @@
 # Starkenn-Technologies
-Visit [MyCompany Inc.](https://www.starkenn.com) for more information.
+Visit [Starkenn Technologies Inc.](https://www.starkenn.com/) for more information.
+
